@@ -19,13 +19,13 @@ body {
 }
 
 .light-title {
-    /* font-size: 2.2rem; */
+    font-size: 2.2rem;
     font-weight: 200;
     color: var(--Grey-500);
 }
 
 .bold-title {
-    /* font-size: 2.2rem; */
+    font-size: 2.2rem;
     font-weight: 600;
     color: var(--Grey-500);
     margin-top: -1.75rem;
